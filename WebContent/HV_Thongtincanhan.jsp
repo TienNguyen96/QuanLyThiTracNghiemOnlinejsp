@@ -54,7 +54,7 @@
 				<div class="list-group">
 					<a href="#" class="list-group-item active"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Học viên</a>
 					<a href="HV_Lambaithi.jsp" class="list-group-item">Làm bài thi</a>
-					<a href="Xemlaibaithi.jsp" class="list-group-item">Xem lại bài thi</a>
+					<a href="HV_Xemlaibaithi.jsp" class="list-group-item">Xem lại bài thi</a>
 					<a href="HV_Xemketqua.jsp" class="list-group-item">Xem kết quả thi</a>
 					<a href="index.jsp" class="list-group-item"><span class="glyphicon glyphicon-off"></span> Đăng xuất</a> 
 				</div>
